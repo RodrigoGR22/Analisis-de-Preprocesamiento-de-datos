@@ -1,0 +1,1035 @@
+Genre,North America,Europe,Japan,Rest of World,Global	Grupo
+Grand Theft Auto V	98.06	100.0	27.65	100.0	100.0	0
+Call of Duty: Black Ops 3	100.0	62.31	18.89	80.79	77.82	0
+Red Dead Redemption 2	85.11	63.95	9.68	74.83	71.89	0
+Call of Duty: WWII	75.57	63.95	18.43	70.2	69.11	0
+FIFA 18	20.55	88.98	6.91	57.28	60.86	0
+FIFA 17	20.39	81.87	5.53	53.31	56.42	0
+Uncharted (PS4)	72.65	40.47	9.68	56.29	53.27	0
+Spider-Man (PS4)	58.9	34.91	14.75	46.69	45.18	0
+Call of Duty: Infinite Warfare	50.32	39.44	8.76	45.03	43.73	0
+Fallout 4	47.09	40.89	12.44	44.37	43.73	0
+FIFA 16	18.61	59.42	3.23	40.73	42.39	2
+Star Wars Battlefront 2015	53.56	32.85	10.6	43.05	41.41	0
+Call of Duty: Advanced Warfare	45.95	34.4	6.45	40.4	38.83	2
+Battlefield 1	35.6	37.59	13.36	37.09	37.44	2
+The Last of Us	43.69	29.45	5.07	36.42	34.91	2
+MineCraft	30.58	32.23	16.13	31.79	32.65	2
+FIFA 15	13.43	46.24	2.3	31.13	32.59	2
+God of War (PS4)	45.79	22.35	5.99	33.77	31.72	2
+Horizon: Zero Dawn	35.6	25.03	12.9	30.46	30.02	2
+Destiny	40.94	21.94	7.37	31.13	29.71	2
+Uncharted: The Nathan Drake Collection	41.26	21.73	4.61	31.13	29.4	2
+The Witcher 3: Wild Hunt	23.95	29.04	12.9	26.82	27.8	2
+Final Fantasy XV	29.29	15.76	48.39	22.52	26.15	2
+Crash Bandicoot N. Sane Trilogy	17.64	30.07	3.23	24.5	24.91	2
+Monster Hunter: World	16.67	10.92	100.0	13.91	24.08	2
+Overwatch	29.77	18.54	7.83	24.17	23.41	2
+Star Wars Battlefront II (2017)	27.51	20.49	5.53	24.17	23.36	2
+Tom Clancy's The Division	24.11	21.01	7.37	22.85	22.54	2
+Tom Clancy's Rainbow Six: Siege	20.87	21.22	16.59	21.19	22.49	2
+Watch Dogs	22.65	21.94	5.07	22.52	22.28	2
+Call of Duty: Ghosts	28.96	16.89	2.3	22.85	21.51	2
+Assassin's Creed: Unity	20.23	22.25	4.15	21.52	21.35	2
+Destiny 2	31.07	14.83	4.61	22.85	21.35	2
+Batman: Arkham Knight	26.7	17.3	5.07	21.85	21.2	2
+Assassin's Creed Origins	19.74	21.73	5.07	20.86	20.94	2
+Far Cry 4	19.09	22.04	5.07	20.86	20.94	2
+NBA 2K16	41.42	6.8	2.3	23.51	20.53	2
+Far Cry 5	23.3	17.82	6.91	20.53	20.37	2
+Battlefield 4	22.65	17.92	8.76	20.53	20.32	2
+Gran Turismo Sport	10.19	24.2	11.06	17.88	19.44	2
+Assassin's Creed Syndicate	14.56	21.22	3.69	18.21	18.57	2
+NBA 2K17	36.89	6.08	1.38	20.86	18.15	2
+Mortal Kombat X	31.39	9.68	0.0	20.2	18.0	2
+FIFA Soccer 14	10.03	22.45	5.53	16.89	17.69	2
+The Elder Scrolls V: Skyrim	20.06	15.45	3.69	17.88	17.33	2
+Watch Dogs 2	15.86	17.92	5.53	17.22	17.33	2
+NBA 2K18	34.47	5.87	1.84	19.54	17.23	2
+Resident Evil VII: Biohazard	14.24	16.07	18.89	15.23	17.07	2
+Madden NFL 16	38.67	3.19	0.0	20.2	17.02	2
+Madden NFL 17	37.22	3.81	0.0	19.87	16.92	2
+Middle-Earth: Shadow of Mordor	16.67	16.48	2.3	16.89	16.45	2
+Assassin's Creed IV: Black Flag	17.31	15.96	2.76	16.89	16.45	2
+Tom Clancy's Ghost Recon Wildlands	17.31	13.9	10.14	15.56	16.09	2
+Bloodborne	21.04	10.81	12.9	15.89	16.04	2
+Metal Gear Solid V: The Phantom Pain	15.7	11.84	23.04	13.91	15.68	2
+Killzone: Shadow Fall	14.4	16.27	3.69	15.56	15.58	2
+inFAMOUS: Second Son	21.84	11.23	3.23	16.56	15.52	2
+Doom (2016)	15.05	15.24	1.84	15.23	15.06	2
+Mafia III	11.65	17.2	1.84	14.57	14.8	2
+Diablo III	13.43	15.24	3.69	14.57	14.54	2
+Far Cry: Primal	10.19	16.58	3.23	13.58	14.08	2
+Need for Speed (2015)	9.55	17.1	2.76	13.58	14.03	2
+Madden NFL 18	27.99	4.33	0.0	15.56	13.51	2
+NBA 2K15	24.11	5.66	0.46	14.57	12.84	2
+Dying Light	19.09	7.62	5.99	13.25	12.64	2
+Dark Souls III	16.18	6.49	20.28	11.26	12.48	2
+Ratchet & Clank (2016)	15.7	9.99	2.76	12.91	12.27	2
+DriveClub	5.99	16.79	0.92	11.92	12.22	2
+Uncharted: The Lost Legacy	9.39	14.21	1.84	11.92	12.22	2
+Dragon Age III: Inquisition	17.31	8.24	3.69	12.58	12.07	2
+No Man's Sky	14.4	9.99	1.84	12.25	11.66	2
+Madden NFL 15	25.57	2.57	0.0	13.58	11.6	2
+Need for Speed: Payback	10.03	12.15	1.84	11.26	11.24	2
+Destiny: The Taken King	15.7	8.24	2.3	11.92	11.24	2
+Need for Speed Rivals	12.14	10.71	1.38	11.59	11.19	2
+PlayStation VR Worlds	5.83	14.42	4.15	10.6	11.14	2
+Battlefield: Hardline	11.65	9.99	6.45	10.93	11.09	2
+Rise of the Tomb Raider	9.87	11.12	2.3	10.6	10.68	2
+LittleBigPlanet 3	12.62	9.58	0.46	11.26	10.62	2
+The Elder Scrolls Online	11.97	10.09	0.0	10.93	10.57	2
+Middle-Earth: Shadow of War	13.27	8.65	2.76	10.93	10.52	2
+Dragon Quest XI	4.69	2.27	65.9	3.31	10.52	2
+Rocket League	5.99	13.8	0.0	10.26	10.42	1
+Just Cause 3	8.58	11.02	4.15	9.93	10.21	2
+Dishonored 2	10.03	10.5	0.46	10.26	10.16	2
+Lego Marvel Super Heroes	9.55	10.3	0.46	9.93	9.85	2
+Until Dawn	10.03	9.47	2.76	9.93	9.8	2
+Knack	7.28	7.93	19.35	7.62	9.7	2
+The Evil Within	9.06	9.27	5.07	9.27	9.59	1
+The Crew	7.12	10.71	1.38	8.94	9.23	1
+Kingdom Hearts 1.5 + 2.5 Remix	12.14	5.25	10.6	8.61	9.03	2
+For Honor	11.81	6.8	3.23	9.27	9.03	1
+Titanfall 2	12.14	6.39	2.76	9.27	8.87	1
+Injustice 2	14.24	5.56	0.0	9.6	8.87	1
+NieR Automata	9.06	5.25	19.35	7.28	8.82	1
+Tekken 7	9.71	7.42	5.53	8.61	8.77	1
+Persona 5	10.03	3.5	22.12	6.62	8.46	1
+The Order: 1886	7.12	8.86	3.23	8.28	8.35	1
+Wolfenstein: The New Order	7.77	8.65	1.38	8.28	8.3	1
+Detroit: Become Human	8.9	6.9	5.53	7.95	8.1	1
+Naruto Shippuden: Ultimate Ninja Storm 4	11.49	4.84	5.53	7.95	7.94	1
+NBA 2K14	14.72	3.6	0.46	8.94	7.94	1
+Tomb Raider (2013)	7.61	7.62	2.76	7.62	7.79	1
+Dragon Ball: Xenoverse 2	8.74	6.08	6.45	7.62	7.74	1
+Rayman Legends	3.56	10.81	0.0	7.62	7.74	1
+Mass Effect: Andromeda	9.39	6.9	0.0	8.28	7.68	1
+Dragon Ball Fighter Z	9.87	5.25	5.53	7.62	7.53	1
+South Park: The Fractured But Whole	10.03	5.87	0.0	7.95	7.37	1
+The Sims 4	7.12	7.42	0.46	7.28	7.17	1
+Street Fighter V	10.36	4.33	5.53	7.28	7.17	1
+Wolfenstein II: The New Colossus	8.9	5.97	0.46	7.28	7.01	1
+WWE 2K18	7.28	6.9	0.0	7.28	6.86	1
+Lego Star Wars: The Force Awakens	4.85	8.03	0.92	6.62	6.76	1
+EA Sports UFC 2	7.12	6.69	0.0	6.95	6.76	1
+The Last Guardian	6.47	5.97	5.99	6.29	6.65	1
+WWE 2K16	6.96	6.69	0.0	6.95	6.65	1
+Borderlands: The Handsome Collection	11.17	3.5	1.38	7.28	6.6	1
+Project CARS	4.69	7.83	1.84	6.29	6.6	1
+WWE 2K17	5.18	7.21	0.0	6.29	6.29	1
+Guitar Hero Live	8.41	5.05	0.0	6.62	6.24	1
+Metal Gear Solid: Ground Zeroes	5.83	5.15	7.83	5.63	6.19	1
+Mad Max (2013)	6.15	6.08	2.3	6.29	6.19	1
+Shadow of the Colossus	7.12	5.36	2.3	6.29	6.19	1
+Kingdom Hearts HD 2.8 Final Chapter Prologue	9.22	2.57	9.22	5.63	6.19	1
+Dragon Ball: XenoVerse	5.34	5.66	6.45	5.63	6.14	1
+LEGO Dimensions	7.77	5.15	0.0	6.62	6.09	1
+LEGO Jurassic World	6.63	5.77	0.92	6.29	6.09	1
+WWE 2K15	6.47	5.87	0.0	6.29	5.98	1
+MLB The Show 17	15.21	0.0	0.0	7.28	5.98	1
+LEGO Worlds	3.4	7.42	1.84	5.63	5.88	1
+The Elder Scrolls V: Skyrim PSVR	7.61	4.84	0.46	6.29	5.83	1
+LEGO Marvel Super Heroes 2	5.34	6.18	0.0	5.96	5.72	1
+EA Sports UFC	7.93	4.43	0.46	5.96	5.72	1
+Final Fantasy XII: The Zodiac Age	5.99	4.22	7.37	4.97	5.67	1
+Alien: Isolation	4.69	6.08	2.3	5.3	5.62	1
+MLB The Show 18	13.92	0.0	0.0	6.62	5.47	1
+The Evil Within II	5.02	5.05	4.15	4.97	5.42	1
+Prey (2017)	4.05	6.39	0.92	5.3	5.36	1
+Final Fantasy Type-0	6.47	3.4	7.37	4.97	5.36	1
+Ni-Oh	5.5	3.71	9.22	4.64	5.31	1
+MLB 15: The Show	12.14	0.82	0.0	6.29	5.21	1
+Steep	3.72	6.18	0.92	4.97	5.21	1
+LEGO Marvel's Avengers	5.02	5.46	0.46	5.3	5.21	1
+Evolve	6.15	4.22	2.3	5.3	5.21	1
+Injustice: Gods Among Us	7.44	3.6	0.0	5.63	5.05	1
+EA Sports UFC 3	6.47	4.22	0.46	5.3	5.0	1
+Madden NFL 25	10.36	1.54	0.0	5.63	4.95	1
+MLB 16: The Show	12.62	0.0	0.0	5.96	4.95	1
+Lego Batman 3: Beyond Gotham	5.99	4.33	0.0	5.3	4.85	1
+Final Fantasy X/X-2 HD Remaster	5.5	3.71	3.23	4.64	4.64	1
+Ni no Kuni II: Revenant Kingdom	5.34	3.19	5.53	4.3	4.59	1
+God of War III	6.47	3.4	0.92	4.97	4.59	1
+Fortnite	6.8	3.3	0.0	4.97	4.59	1
+LEGO Harry Potter Collection	1.13	7.0	0.0	4.3	4.54	1
+Minecraft: Story Mode	5.02	4.33	0.0	4.64	4.49	1
+BioShock The Collection	6.63	2.88	1.38	4.64	4.44	1
+Thief 4	4.53	4.22	1.38	4.3	4.38	1
+Until Dawn: Rush of Blood	8.09	2.16	0.0	4.97	4.38	1
+Disney Infinity 3.0	5.02	4.12	0.0	4.64	4.38	1
+Farming Simulator 17	3.07	5.36	0.46	4.3	4.38	1
+The Crew 2	3.56	4.33	2.3	3.97	4.23	1
+Pro Evolution Soccer 2016	2.27	4.43	6.45	3.31	4.23	1
+ARK: Survival Evolved	4.53	2.99	6.45	3.64	4.18	1
+Dragon Quest Heroes: The World's Tree Woe and the Blight Below	3.4	1.44	17.97	2.32	4.18	1
+Assassin's Creed The Ezio Collection	2.27	5.36	0.92	3.97	4.07	1
+Final Fantasy XIV: A Realm Reborn	5.66	2.37	3.69	3.97	4.07	1
+Destiny: The Collection	3.88	4.12	0.92	3.97	4.02	1
+F1 2016 (Codemasters)	1.13	5.77	1.38	3.64	4.02	1
+Hitman (2016)	3.88	3.71	2.76	3.64	4.02	1
+Pro Evolution Soccer 2015	1.46	4.63	5.53	3.31	3.92	1
+LEGO City Undercover	2.75	4.74	0.46	3.97	3.87	1
+Pro Evolution Soccer 2018	1.94	3.71	8.76	2.98	3.87	1
+Disney Infinity 2.0: Marvel Super Heroes	5.99	2.57	0.0	4.3	3.87	1
+Pro Evolution Soccer 2017	1.29	4.22	8.29	2.98	3.87	1
+Sniper Elite 3	4.05	3.81	0.0	3.97	3.82	1
+MLB 14 The Show	9.55	0.0	0.0	4.64	3.76	1
+WipEout Omega Collection	1.94	5.05	0.0	3.64	3.71	1
+Deus Ex: Mankind Divided	4.05	3.5	0.46	3.97	3.71	1
+The LEGO Movie Videogame	4.21	3.3	0.46	3.64	3.66	1
+Marvel vs. Capcom: Infinite	5.83	1.96	1.84	3.64	3.61	1
+Dark Souls II	4.37	2.37	4.15	3.31	3.56	1
+Yakuza 6	2.59	1.03	17.51	1.66	3.56	1
+F1 2015	1.62	4.63	1.84	3.31	3.51	1
+METRO 2033	3.56	3.19	2.3	3.31	3.51	1
+Rocksmith 2014	6.15	1.75	0.0	3.97	3.46	1
+NHL 16	6.15	1.65	0.0	3.97	3.4	1
+Plants vs Zombies: Garden Warfare	3.88	3.09	0.46	3.64	3.4	1
+Tales of Berseria	3.56	1.03	11.98	2.32	3.35	1
+Yakuza Zero: The Place of Oath	3.56	1.65	8.76	2.65	3.35	1
+One Piece: Burning Blood	3.4	2.68	4.15	2.98	3.35	1
+Batman: Return to Arkham	2.43	4.02	0.46	3.31	3.3	1
+Plants vs. Zombies: Garden Warfare 2	3.56	3.19	0.0	3.31	3.25	1
+LEGO The Hobbit	2.27	4.02	0.0	3.31	3.2	1
+World of Final Fantasy	3.88	2.16	4.15	2.98	3.2	1
+F1 2017	0.65	4.84	0.92	2.98	3.2	1
+NHL 15	5.18	1.96	0.0	3.64	3.2	1
+Knowledge is Power	0.81	4.84	0.0	2.98	3.15	1
+L.A. Noire	2.91	3.3	0.0	3.31	3.09	1
+Hidden Agenda	1.29	4.33	0.0	2.98	3.04	1
+Call of Duty: Modern Warfare Remastered	2.75	3.09	1.38	2.98	2.99	1
+Dragon Quest Builders: Revive Alefgard	1.94	1.75	11.06	1.99	2.99	1
+The Lego Ninjago Movie Videogame	2.59	3.3	0.0	2.98	2.94	1
+Resident Evil: Revelations 2	2.27	2.57	5.07	2.32	2.94	1
+Rock Band 4	6.63	0.62	0.0	3.31	2.94	1
+NHL 18	5.02	1.65	0.0	3.31	2.94	1
+Everybody's Golf	1.94	2.27	7.83	1.99	2.89	1
+The Amazing Spider-Man 2 (2014)	3.24	2.68	0.92	2.98	2.89	1
+DOOM VFR	3.56	2.57	0.0	2.98	2.89	1
+Sonic Forces	2.43	3.19	0.46	2.98	2.89	1
+Kingdom Come: Deliverance	2.91	2.88	0.0	2.98	2.89	1
+Lords of the Fallen	3.24	2.47	0.92	2.98	2.84	1
+Sniper Elite 4	3.4	2.57	0.0	2.98	2.84	1
+Rory McIlroy PGA Tour	3.07	2.78	0.0	2.98	2.84	1
+Project CARS 2	1.62	3.6	0.92	2.65	2.84	1
+Skylanders: Trap Team	4.05	1.85	0.0	2.98	2.68	1
+NHL 17	5.18	1.13	0.0	2.98	2.68	1
+One Piece: Pirate Warriors 3	1.78	2.27	5.07	1.99	2.68	1
+DiRT Rally	2.1	3.09	0.0	2.65	2.63	1
+Homefront: The Revolution	1.78	2.99	1.84	2.32	2.58	1
+Attack on Titan (KOEI)	1.29	2.47	5.53	1.99	2.58	1
+DiRT 4	1.62	3.09	0.92	2.32	2.53	1
+Farpoint	0.0	3.91	1.84	1.99	2.48	1
+Battleborn	4.05	1.24	1.38	2.65	2.48	1
+A Way Out	3.72	1.65	0.0	2.65	2.48	1
+Friday the 13th: The Game	4.69	0.93	1.38	2.65	2.48	1
+The Walking Dead: A Telltale Games Series	1.94	2.68	1.38	2.32	2.48	1
+Wolfenstein: The Old Blood	2.1	2.57	0.92	2.32	2.48	1
+Deadpool	4.21	1.34	0.0	2.65	2.42	1
+Dragon Quest Heroes II: Twin Kings and the Prophecy's End	0.81	0.93	13.82	0.99	2.42	1
+TrackMania Turbo	0.65	3.6	0.0	2.32	2.42	1
+Knack 2	2.27	2.57	0.46	2.32	2.42	1
+Just Dance 2014	3.4	1.85	0.0	2.65	2.42	1
+Dissidia Final Fantasy NT	3.07	0.62	7.37	1.66	2.37	1
+Skylanders: SuperChargers	4.69	0.93	0.0	2.65	2.32	1
+Yakuza Kiwami	2.1	0.72	9.68	1.32	2.32	1
+Tales of Zestiria	2.91	1.65	1.84	2.32	2.32	1
+Star Ocean 5: Integrity and Faithlessness	1.62	1.34	7.37	1.66	2.32	1
+Sleeping Dogs	2.59	2.16	0.0	2.32	2.27	1
+Skylanders SWAP Force	3.72	1.44	0.0	2.65	2.27	1
+Skylanders Imaginators	2.91	1.85	0.0	2.32	2.22	1
+Trials Fusion	2.1	2.37	0.46	2.32	2.22	1
+Saints Row IV	2.43	1.85	1.38	1.99	2.17	1
+Dishonored	1.94	2.16	0.92	1.99	2.17	1
+Mirror's Edge 2	2.1	1.96	1.38	1.99	2.17	1
+Farming Simulator 2015	2.1	2.27	0.0	2.32	2.11	1
+Just Dance 2015	3.4	1.34	0.0	2.32	2.11	1
+Sword Art Online: Hollow Realization	2.91	0.62	5.53	1.66	2.11	1
+Just Dance 2016	3.07	1.34	0.0	2.32	2.01	1
+Batman: Arkham VR	5.18	0.0	0.0	2.32	2.01	1
+Little Nightmares	2.91	1.24	0.92	1.99	2.01	1
+Tropico 5	1.13	1.85	3.69	1.66	1.96	1
+Life is Strange	1.78	1.65	2.3	1.66	1.91	1
+Resident Evil Zero	1.13	1.85	3.23	1.66	1.91	1
+Yakuza Kiwami 2	1.29	0.62	8.76	0.99	1.91	1
+Vampyr	1.94	1.96	0.0	1.99	1.91	1
+Okami	2.59	1.24	1.38	1.99	1.86	1
+Sniper: Ghost Warrior 3	2.27	1.54	1.38	1.99	1.86	1
+Hokuto ga Gotoku	1.46	0.51	8.29	0.99	1.86	1
+Sword Art Online: Lost Song	3.07	1.13	0.0	1.99	1.86	1
+Disgaea 5: Alliance of Vengeance	2.43	0.82	3.23	1.66	1.81	1
+Dead or Alive 5	1.46	1.34	4.15	1.32	1.81	1
+Gravity Rush 2	2.1	0.51	5.99	1.32	1.81	1
+Odin Sphere: Leifthrasir	2.27	0.72	4.15	1.32	1.75	1
+Divinity: Original Sin	2.1	1.34	1.84	1.66	1.75	1
+The King of Fighters XIV	3.4	0.21	2.76	1.66	1.75	1
+Dishonored: Death of the Outsider	1.62	1.85	0.0	1.66	1.7	1
+Valkyria Chronicles	2.27	0.82	3.69	1.32	1.7	1
+Murdered: Soul Suspect	1.46	1.75	0.92	1.66	1.7	1
+Payday 2	1.94	1.44	0.0	1.66	1.65	1
+UEFA Euro 2016	0.0	2.27	2.3	1.32	1.6	1
+DmC: Devil May Cry	1.94	1.34	0.0	1.66	1.6	1
+Sonic Mania	1.62	1.54	0.46	1.66	1.6	1
+J Stars Victory Vs.	1.78	1.44	0.0	1.66	1.6	1
+XCOM 2	2.59	1.03	0.0	1.66	1.6	1
+Dynasty Warriors 8: Xtreme Legends	1.46	1.24	2.76	1.32	1.6	1
+Cities: Skylines	2.43	0.72	1.84	1.66	1.55	1
+Saint Seiya: Soldiers' Soul	0.0	2.16	2.3	1.32	1.55	1
+Just Dance 2018	1.62	1.54	0.0	1.66	1.55	1
+The Walking Dead: Season Two	2.1	0.93	1.38	1.66	1.55	1
+Sword Art Online: Fatal Bullet	1.78	0.31	5.99	0.99	1.5	1
+Naruto to Boruto: Shinobi Striker	3.07	0.31	0.92	1.66	1.5	1
+Yooka-Laylee	1.46	1.65	0.0	1.66	1.5	1
+Cars 3: Driven to Win	0.97	1.85	0.46	1.32	1.5	1
+Metal Gear Solid V: The Definitive Experience	2.1	0.82	1.38	1.32	1.5	1
+Sherlock Holmes: Crimes & Punishments	1.62	1.44	0.0	1.66	1.5	1
+Star Trek Bridge Crew VR	1.78	1.24	0.0	1.66	1.44	1
+The Heavy Rain and Beyond: Two Souls Collection	0.0	2.47	0.0	1.32	1.44	1
+Spintires: MudRunner	1.78	1.24	0.0	1.66	1.44	1
+Onechanbara Z2: Chaos	2.59	0.31	2.3	1.32	1.44	1
+Secret of Mana	0.97	1.24	2.3	1.32	1.44	1
+Gundam Versus	1.29	0.0	8.29	0.66	1.44	1
+NBA Live 14	2.75	0.51	0.0	1.66	1.39	1
+Bravo Team VR	1.94	0.93	0.92	1.32	1.39	1
+Killing Floor 2�	3.07	0.31	0.0	1.66	1.39	1
+Robinson: The Journey	2.27	0.93	0.0	1.66	1.39	1
+DriveClub VR	1.94	0.93	0.46	1.32	1.39	1
+Fate/Extella: The Umbral Star	1.94	0.0	5.53	0.99	1.39	1
+Ultimate Marvel vs. Capcom 3	3.07	0.0	0.92	1.32	1.34	1
+New Danganronpa V3: Minna no Koroshiai Shin Gakki	1.46	0.51	3.23	0.99	1.29	1
+Samurai Warriors 4	1.29	0.72	2.76	0.99	1.29	1
+Darksiders III	2.1	0.72	0.0	1.32	1.29	1
+NBA Live 15	2.59	0.41	0.0	1.32	1.29	1
+NBA Live 18	3.24	0.0	0.0	1.66	1.24	1
+Tearaway Unfolded	1.13	1.34	0.0	1.32	1.24	1
+.hack//G.U. Last Recode	1.62	0.41	3.69	0.99	1.24	1
+Ride	0.65	1.34	1.38	0.99	1.24	1
+Just Dance 2017	1.29	1.24	0.0	1.32	1.24	1
+The Escapists 2	0.65	1.65	0.0	1.32	1.24	1
+Transformers: Devastation	1.78	0.93	0.0	1.32	1.24	1
+Darksiders II	1.62	1.03	0.0	1.32	1.24	1
+Jikkyou Powerful Pro Baseball 2016	0.0	0.0	11.06	0.0	1.24	1
+The Elder Scrolls Online: Morrowind	1.78	0.93	0.0	1.32	1.24	1
+Digimon World: Next Order	2.1	0.51	0.92	1.32	1.24	1
+theHunter: Call of the Wild	3.07	0.0	0.0	1.32	1.24	1
+Tony Hawk's Pro Skater 5	1.78	0.82	0.0	1.32	1.19	1
+Angry Birds: Star Wars	1.78	0.93	0.0	1.32	1.19	1
+Elex	0.49	1.65	0.0	1.32	1.19	1
+RIGS: Mechanized Combat League	1.78	0.62	0.92	1.32	1.19	1
+Transformer: Rise of the Dark Spark	1.29	1.13	0.46	1.32	1.19	1
+Dead Island Definitive Collection	1.46	0.82	1.38	0.99	1.19	1
+Metal Gear Survive	1.29	0.62	2.3	0.99	1.19	1
+Singstar Celebration	0.65	1.54	0.0	0.99	1.19	1
+Dead by Daylight	1.78	0.62	0.92	1.32	1.13	1
+Attack on Titan 2	1.46	0.41	2.76	0.99	1.13	1
+The Wolf Among Us	1.78	0.72	0.0	1.32	1.13	1
+Micro Machines: World Series	0.49	1.65	0.0	0.99	1.13	1
+Bladestorm: Nightmare	1.78	0.41	1.38	0.99	1.13	1
+Zombie Army Trilogy	0.97	1.34	0.0	0.99	1.13	1
+Outlast Trinity	1.46	0.93	0.0	1.32	1.13	1
+EVE: Valkyrie	1.78	0.62	0.0	1.32	1.08	1
+Senran Kagura: Peach Beach Splash	1.46	0.21	3.69	0.66	1.08	1
+Ys VIII: Lacrimosa of Dana	1.29	0.41	3.69	0.66	1.08	1
+Bound By Flame	1.29	0.93	0.0	1.32	1.08	1
+NBA Live 16	2.1	0.51	0.0	1.32	1.08	1
+7 Days to Die	1.46	0.82	0.0	0.99	1.08	1
+Dynasty Warriors 8: Empires	1.13	0.72	1.84	0.99	1.08	1
+Dragon's Dogma	1.13	0.72	1.38	0.99	1.08	1
+Godzilla (2015)	1.78	0.31	1.38	0.99	1.03	1
+Eagle Flight	1.46	0.82	0.0	0.99	1.03	1
+Agents of Mayhem	1.29	0.82	0.0	0.99	1.03	1
+MotoGP 14�	0.81	1.13	0.0	0.99	1.03	1
+Elite: Dangerous	0.97	1.03	0.0	0.99	0.98	1
+Singstar: Ultimate Party	0.0	1.65	0.0	0.99	0.98	1
+Toukiden Kiwami	0.97	0.72	1.38	0.99	0.98	1
+Batman: A Telltale Game Series	1.46	0.72	0.0	0.99	0.98	1
+The Surge	1.13	0.82	0.46	0.99	0.98	1
+MotoGP 15	0.0	1.34	1.84	0.66	0.93	1
+Resident Evil: Revelations	0.97	0.62	1.84	0.66	0.93	1
+Senran Kagura: Estival Versus	1.29	0.0	4.15	0.66	0.93	1
+Back to the Future: The Game	1.62	0.51	0.0	0.99	0.93	1
+The Walking Dead - The Telltale Series: A New Frontier	1.78	0.41	0.0	0.99	0.88	1
+Resident Evil 6	1.62	0.0	2.3	0.66	0.88	1
+Final Fantasy XIV: Heavensward	0.0	0.93	2.76	0.66	0.88	1
+Final Fantasy XIV: Stormblood	0.81	0.62	1.84	0.66	0.88	1
+Guilty Gear Xrd: Sign	1.78	0.0	1.84	0.66	0.88	1
+Prototype: Biohazard Bundle	2.27	0.0	0.0	0.99	0.88	1
+BlazBlue Central Fiction	1.62	0.0	2.3	0.66	0.88	1
+MXGP 3: The Official Motocross Videogame	0.97	0.82	0.0	0.99	0.88	1
+Ride 2	1.13	0.62	0.46	0.99	0.83	1
+Dead Rising 4	1.29	0.51	0.0	0.99	0.83	1
+Putty Squad	0.97	0.72	0.0	0.99	0.83	1
+Digimon Story: Cyber Sleuth - Hacker's Memory	0.81	0.51	1.84	0.66	0.83	1
+Battlezone	1.46	0.41	0.0	0.99	0.83	1
+Naruto Shippuden: Ultimate Ninja Storm Legacy	1.13	0.41	1.38	0.66	0.83	1
+Berserk and the Band of the Hawk	1.13	0.21	2.3	0.66	0.83	1
+BlazBlue: Chrono Phantasma Extend	1.29	0.41	0.92	0.66	0.83	1
+Pillars of Eternity	1.78	0.21	0.0	0.99	0.83	1
+Valkyria: Azure Revolution	0.65	0.31	3.23	0.66	0.83	1
+Gravity Rush Remastered	0.32	0.62	2.3	0.66	0.83	1
+Psycho-Pass: Mandatory Happiness	1.62	0.21	0.0	0.99	0.77	1
+Brothers: A Tale of Two Sons	0.65	0.93	0.0	0.66	0.77	1
+Warriors Orochi 3	0.65	0.51	1.84	0.66	0.77	1
+Wasteland 2	1.62	0.0	1.38	0.66	0.77	1
+Atelier Sophie: The Alchemist of the Mysterious Book	0.65	0.31	3.23	0.33	0.77	1
+NASCAR Heat Evolution	1.94	0.0	0.0	0.99	0.77	1
+Yakuza: Ishin	0.0	0.0	6.91	0.0	0.77	1
+Toukiden 2	0.65	0.0	4.61	0.33	0.77	1
+Song of the Deep	1.94	0.0	0.0	0.99	0.77	1
+Super Robot Wars V	0.0	0.0	6.91	0.0	0.77	1
+Blue Reflection: Maboroshi ni Mau - Shoujo no Ken	1.13	0.0	2.76	0.66	0.72	1
+Yonmegami Online: Cyber Dimension Neptune	0.97	0.0	3.23	0.33	0.72	1
+Grand Kingdom	1.29	0.0	1.84	0.66	0.72	1
+Arslan: The Warriors of Legend	0.49	0.41	2.76	0.33	0.72	1
+Pro Cycling Manager 2016	0.0	1.24	0.0	0.66	0.72	1
+Shovel Knight	1.29	0.41	0.0	0.66	0.72	1
+Adventure Time: Finn & Jake Investigations	1.13	0.51	0.0	0.66	0.72	1
+Guilty Gear Xrd -Revelator-	0.97	0.0	3.23	0.33	0.72	1
+We Happy Few	1.29	0.41	0.0	0.66	0.72	1
+Rocksmith 2014 Edition Remastered	1.78	0.0	0.0	0.99	0.72	1
+The Crew: Wild Run	0.0	1.24	0.0	0.66	0.72	1
+MXGP 2	0.81	0.62	0.0	0.66	0.72	1
+MotoGP 17	0.65	0.72	0.0	0.66	0.72	1
+Fairy Fencer F: Advent Dark Force	0.97	0.0	2.76	0.33	0.72	1
+Samurai Warriors 4-II	0.65	0.21	3.23	0.33	0.67	1
+The Golf Club	1.46	0.21	0.0	0.66	0.67	1
+Hatsune Miku: Project Diva X	1.29	0.0	1.84	0.66	0.67	1
+NASCAR Heat 2	1.78	0.0	0.0	0.66	0.67	1
+Bulletstorm: Full Clip Edition	0.81	0.62	0.0	0.66	0.67	1
+Valentino Rossi: The Game	0.81	0.51	0.0	0.66	0.67	1
+Golf Club 2	0.81	0.62	0.0	0.66	0.67	1
+Akiba's Trip 2	1.46	0.0	0.92	0.66	0.67	1
+Rugby 15	0.81	0.62	0.0	0.66	0.67	1
+Utawarerumono: Futari no Hakuoro	0.81	0.0	3.23	0.33	0.67	1
+The Legend of Heroes: Trails of Cold Steel III	0.0	0.0	5.99	0.0	0.67	1
+Utawarerumono: Itsuwari no Kamen	0.81	0.0	3.23	0.33	0.67	1
+The Inpatient	0.97	0.51	0.0	0.66	0.67	1
+Don Bradman Cricket 14	0.16	0.93	0.0	0.66	0.67	1
+Sword Art Online: Hollow Fragment	0.0	1.13	0.0	0.66	0.62	1
+Teenage Mutant Ninja Turtles: Mutants in Manhattan	1.13	0.31	0.0	0.66	0.62	1
+Job Simulator	1.62	0.0	0.0	0.66	0.62	1
+Portal Knights	0.32	0.51	1.38	0.33	0.62	1
+Samurai Warriors 4: Empires	0.49	0.1	3.23	0.33	0.62	1
+Danganronpa 1o2 Reload	1.29	0.0	0.92	0.66	0.62	1
+God Eater 2: Rage Burst	0.0	0.1	5.07	0.0	0.62	1
+America's Greatest Game Shows: Wheel of Fortune & Jeopardy!	1.62	0.0	0.0	0.66	0.62	1
+Marvel's Guardians of the Galaxy: The Telltale Series	0.97	0.41	0.0	0.66	0.62	1
+Digimon Story: Cyber Sleuth	0.0	1.03	0.0	0.66	0.57	1
+Constructor HD	1.46	0.0	0.0	0.66	0.57	1
+Minecraft: Story Mode - Season Two	1.46	0.0	0.0	0.66	0.57	1
+Darksiders: Warmastered Edition	1.13	0.21	0.0	0.66	0.57	1
+Mighty No. 9	1.46	0.0	0.0	0.66	0.57	1
+The Invisible Hours	1.46	0.0	0.0	0.66	0.57	1
+Monster Energy Supercross - The Official Videogame	1.29	0.1	0.0	0.66	0.57	1
+The Idolmaster: Platinum Stars	0.0	0.0	5.07	0.0	0.57	1
+The Witch and the Hundred Knight	0.49	0.1	2.76	0.33	0.57	1
+SD Gundam G Generation Genesis	0.0	0.0	5.07	0.0	0.57	1
+Rime	0.32	0.72	0.0	0.66	0.57	1
+Super Robot Wars OG: The Moon Dwellers	0.0	0.0	5.07	0.0	0.57	1
+Gundam Breaker 3	0.0	0.0	5.07	0.0	0.57	1
+Earth Defense Force 2025.1: The Shadow of New Despair	0.0	0.0	5.07	0.0	0.57	1
+Shadow Warrior (2013)	0.0	0.93	0.0	0.66	0.57	1
+Assassin's Creed Chronicles	0.32	0.51	0.92	0.33	0.57	1
+Mega Man Legacy Collection	1.46	0.0	0.0	0.66	0.57	1
+Pac-Man Championship Edition 2 + Arcade Game Series	1.29	0.0	0.0	0.66	0.52	1
+Tokyo Xanadu eX+	0.81	0.0	2.3	0.33	0.52	1
+Stardew Valley	0.65	0.41	0.0	0.66	0.52	1
+Romance of the Three Kingdoms 13	0.49	0.0	2.76	0.33	0.52	1
+Musou Stars	0.49	0.0	2.76	0.33	0.52	1
+Mega Man Legacy Collection 2	0.97	0.0	0.92	0.33	0.52	1
+Final Fantasy XIV Online Complete Edition	1.13	0.0	0.92	0.66	0.52	1
+Devil May Cry 4	0.16	0.0	4.15	0.0	0.52	1
+Puyo Puyo Tetris	0.81	0.31	0.0	0.66	0.52	1
+Natural Doctrine	0.81	0.21	0.92	0.33	0.52	1
+Sudden Strike 4	0.81	0.31	0.46	0.66	0.52	1
+Accel World vs. Sword Art Online: Millennium Twilight	0.0	0.31	2.76	0.33	0.52	1
+Wolfenstein The Two Pack	1.29	0.0	0.0	0.66	0.52	1
+Guilty Gear Xrd REV 2	0.65	0.1	1.38	0.33	0.52	1
+Ultra Street Fighter IV	0.0	0.82	0.0	0.33	0.52	1
+Let's Sing 2016	1.29	0.0	0.0	0.66	0.52	1
+Resident Evil 4 HD	1.13	0.0	0.46	0.66	0.52	1
+Nights of Azure 2	0.65	0.0	1.84	0.33	0.46	1
+The Technomancer	0.65	0.41	0.0	0.66	0.46	1
+Nights of Azure	0.65	0.41	0.0	0.66	0.46	1
+Taiko no Tatsujin: Drum Session!	0.0	0.0	4.15	0.0	0.46	1
+Nobunaga's Ambition: Sphere of Influence - Sengoku Risshiden	0.49	0.0	2.76	0.33	0.46	1
+Grand Ages: Medieval	0.0	0.51	1.38	0.33	0.46	1
+Rugby League Live 4	0.0	0.82	0.0	0.33	0.46	1
+Toy Soldiers: War Chest	1.13	0.0	0.0	0.66	0.46	1
+God Eater Resurrection	0.0	0.0	4.15	0.0	0.46	1
+Paragon	1.13	0.0	0.0	0.66	0.46	1
+Summon Night 6: Lost Borders	0.49	0.0	2.3	0.33	0.46	1
+Black Rose Valkyrie	0.65	0.0	1.84	0.33	0.46	1
+Duke Nukem 3D: 20th Anniversary World Tour	1.13	0.0	0.0	0.66	0.46	1
+ATV Drift & Tricks	1.13	0.0	0.0	0.66	0.46	1
+Yoru no Nai Kuni	0.0	0.0	4.15	0.0	0.46	1
+Lara Croft and the Temple of Osiris	0.0	0.72	0.0	0.33	0.46	1
+Dragon's Dogma Online	0.0	0.0	4.15	0.0	0.46	1
+Ghostbusters (2016)	1.13	0.0	0.0	0.66	0.41	1
+Agatha Christie's The ABC Murders	0.81	0.21	0.0	0.66	0.41	1
+Shantae: Half-Genie Hero	0.97	0.0	0.46	0.33	0.41	1
+Earth Defense Force 4.1: The Shadow of New Despair	0.81	0.21	0.0	0.33	0.41	1
+The Sexy Brutale	0.81	0.21	0.0	0.33	0.41	1
+Legend of Kay	0.49	0.31	0.0	0.33	0.41	1
+Hasbro Family Fun Pack Conquest Edition	1.13	0.0	0.0	0.66	0.41	1
+Loading Human	0.81	0.21	0.0	0.33	0.41	1
+Rapala Fishing Pro Series	0.97	0.0	0.0	0.66	0.41	1
+Atelier Firis: The Alchemist of the Mysterious Journey	0.32	0.0	2.3	0.33	0.41	1
+Dead Rising	0.65	0.0	0.92	0.33	0.41	1
+Assetto Corsa	0.0	0.62	0.46	0.33	0.41	1
+Akiba's Beat	0.81	0.0	0.46	0.33	0.41	1
+WRC 6	0.49	0.21	0.46	0.33	0.41	1
+God Wars: Future Past	0.49	0.1	0.92	0.33	0.36	1
+Resident Evil 5 HD	0.81	0.0	0.46	0.33	0.36	1
+The Witch and the Hundred Knights 2	0.49	0.0	1.38	0.33	0.36	1
+Samurai Warriors: Sanada Maru	0.32	0.0	2.3	0.33	0.36	1
+Project Setsuna	0.0	0.0	3.23	0.0	0.36	1
+Has-Been Heroes	0.97	0.0	0.0	0.33	0.36	1
+Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary	0.0	0.0	3.23	0.0	0.36	1
+Styx: Shards of Darknes	0.97	0.0	0.0	0.33	0.36	1
+Dead Rising 2	0.65	0.0	0.92	0.33	0.36	1
+The Book of Unwritten Tales 2	0.0	0.62	0.0	0.33	0.36	1
+Touhou Genso Rondo: Bullet Ballet	0.97	0.0	0.0	0.33	0.36	1
+The Walking Dead: A Telltale Series Collection	0.97	0.0	0.0	0.33	0.36	1
+The Silver Case	0.81	0.0	0.46	0.33	0.36	1
+Hunting Simulator	0.97	0.0	0.0	0.33	0.36	1
+WRC 7	0.97	0.0	0.0	0.33	0.36	1
+Kamen Rider: Battride War Genesis	0.0	0.0	3.23	0.0	0.36	1
+Le Tour de France 2017	0.0	0.62	0.0	0.33	0.36	1
+City Shrouded in Shadow	0.0	0.0	3.23	0.0	0.36	1
+SG/ZH: School Girl/Zombie Hunter	0.65	0.0	0.92	0.33	0.36	1
+Broken Sword 5: The Serpent's Curse	0.0	0.62	0.0	0.33	0.36	1
+Terraria	0.0	0.51	0.46	0.33	0.36	1
+Warhammer: The End Times - Vermintide	0.49	0.31	0.0	0.33	0.36	1
+Batman: The Enemy Within	0.81	0.0	0.0	0.33	0.36	1
+Atari Flashback Classics: Volume 1	0.81	0.0	0.0	0.33	0.36	1
+Legend of Kay Anniversary	0.0	0.62	0.0	0.33	0.36	1
+Steins;Gate 0	0.0	0.0	3.23	0.0	0.36	1
+ZombiU	0.0	0.41	0.46	0.33	0.36	1
+Risen 3: Titan Lords	0.0	0.62	0.0	0.33	0.36	1
+Mark McMorris Infinite Air	0.81	0.0	0.0	0.33	0.31	1
+Dead or Alive Xtreme 3: Fortune	0.0	0.0	2.76	0.0	0.31	1
+Birthdays the Beginning	0.81	0.0	0.0	0.33	0.31	1
+Rugby 18	0.81	0.0	0.0	0.33	0.31	1
+The Binding of Isaac	0.81	0.0	0.0	0.33	0.31	1
+Sherlock Holmes: The Devil's Daughter	0.81	0.0	0.0	0.33	0.31	1
+Atelier Liddy and Soeur: Alchemists of the Mysterious Painting	0.49	0.0	1.38	0.33	0.31	1
+MX vs. ATV Supercross Encore	0.0	0.51	0.0	0.33	0.31	1
+MX vs ATV Supercross Encore 2017 Track Edition	0.81	0.0	0.0	0.33	0.31	1
+Sword Art Online: Game Director's Edition	0.0	0.0	2.76	0.0	0.31	1
+Deformers	0.81	0.0	0.0	0.33	0.31	1
+Nobunaga no Yabou: Souzou	0.0	0.0	2.76	0.0	0.31	1
+Dragon Quest X: All in One Package	0.0	0.0	2.76	0.0	0.31	1
+Yomawari: Midnight Shadows	0.32	0.0	1.84	0.0	0.31	1
+Game of Thrones (Telltale)	0.81	0.0	0.0	0.33	0.31	1
+Atari Flashback Classics: Volume 2	0.81	0.0	0.0	0.33	0.31	1
+Outcast: Second Contact	0.81	0.0	0.0	0.33	0.31	1
+Cartoon Network Battle Crashers	0.81	0.0	0.0	0.33	0.31	1
+Handball 16	0.0	0.51	0.0	0.33	0.31	1
+Extinction	0.81	0.0	0.0	0.33	0.31	1
+Rugby World Cup 2015	0.0	0.51	0.0	0.33	0.31	1
+Exist Archive: The Other Side of the Sky	0.32	0.0	1.38	0.0	0.31	1
+King's Quest: The Complete Collection	0.81	0.0	0.0	0.33	0.31	1
+Sine Mora	0.49	0.1	0.0	0.33	0.31	1
+Aven Colony	0.65	0.1	0.0	0.33	0.31	1
+Battle Chasers: Nightwar	0.49	0.21	0.0	0.33	0.31	1
+WRC 5: FIA World Rally Championship	0.0	0.51	0.0	0.33	0.31	1
+Black Mirror	0.65	0.0	0.0	0.33	0.26	1
+Touhou Genso Wanderer	0.65	0.0	0.0	0.33	0.26	1
+Arcania: Gothic 4	0.65	0.0	0.0	0.33	0.26	1
+Starblood Arena VR	0.65	0.0	0.0	0.33	0.26	1
+Hellblade	0.49	0.1	0.0	0.33	0.26	1
+Bubsy: The Woolies Strike Back	0.65	0.0	0.0	0.33	0.26	1
+Nitroplus Blasterz: Heroines Infinite Duel	0.16	0.1	1.38	0.0	0.26	1
+Nobunaga's Ambition: Creation	0.65	0.0	0.0	0.33	0.26	1
+Child of Light	0.0	0.1	1.84	0.0	0.26	1
+Phantasy Star Online 2 Episode 4: Deluxe Package	0.0	0.0	2.3	0.0	0.26	1
+Saints Row: Gat out of Hell	0.0	0.41	0.0	0.33	0.26	1
+Werewolves Within	0.65	0.0	0.0	0.33	0.26	1
+Demon Gaze 2	0.65	0.0	0.0	0.33	0.26	1
+Real Farm	0.65	0.0	0.0	0.33	0.26	1
+Worms: WMD	0.32	0.21	0.0	0.33	0.26	1
+Syberia III	0.65	0.0	0.0	0.33	0.26	1
+Sengoku Basara: Sanada Yukimura-Den	0.0	0.0	2.3	0.0	0.26	1
+Sengoku Basara 4: Sumeragi	0.0	0.0	2.3	0.0	0.26	1
+S�bastien Loeb Rally Evo	0.0	0.41	0.0	0.33	0.26	1
+Don't Starve	0.65	0.0	0.0	0.33	0.26	1
+Monster Jam: Crush It	0.65	0.0	0.0	0.33	0.26	1
+Prison Architect	0.32	0.21	0.0	0.33	0.26	1
+Assault Suit Leynos	0.65	0.0	0.0	0.33	0.26	1
+Tokyo Twilight Ghost Hunters Daybreak: Special Gigs	0.65	0.0	0.0	0.33	0.26	1
+Overcooked	0.65	0.0	0.0	0.33	0.26	1
+Ben 10 (2017)	0.65	0.0	0.0	0.33	0.26	1
+Dead Alliance	0.65	0.0	0.0	0.33	0.21	1
+Deer Hunter Reloaded	0.65	0.0	0.0	0.33	0.21	1
+That's You	0.65	0.0	0.0	0.33	0.21	1
+Raid: World War II	0.65	0.0	0.0	0.33	0.21	1
+Hyperdimension Neptunia Victory II	0.0	0.0	1.84	0.0	0.21	1
+Zero Escape The Nonary Games	0.49	0.0	0.46	0.33	0.21	1
+Rugby Challenge 3	0.0	0.41	0.0	0.33	0.21	1
+Vikings: Wolves of Midgard	0.49	0.1	0.0	0.33	0.21	1
+INSIDE / LIMBO Double Pack	0.65	0.0	0.0	0.33	0.21	1
+The Talos Principle	0.0	0.41	0.0	0.33	0.21	1
+Megadimension Neptunia VIIR	0.16	0.0	1.38	0.0	0.21	1
+R.B.I. Baseball 2016	0.65	0.0	0.0	0.33	0.21	1
+Pure Farming 2018	0.32	0.1	0.0	0.33	0.21	1
+Air Conflicts: Secret Wars	0.49	0.0	0.0	0.33	0.21	1
+Anima - Gate of Memories	0.16	0.21	0.0	0.33	0.21	1
+Axiom Verge	0.49	0.0	0.0	0.33	0.21	1
+Unbox: Newbie's Adventure	0.49	0.0	0.0	0.33	0.21	1
+Here They Lie	0.0	0.31	0.0	0.33	0.21	1
+Under Night In-Birth Exe:Latest	0.16	0.0	1.38	0.0	0.21	1
+Aragami	0.49	0.0	0.0	0.33	0.21	1
+Yonder: The Cloud Catcher Chronicles	0.49	0.0	0.0	0.33	0.21	1
+Assassin's Creed Chronicles: China	0.0	0.31	0.0	0.33	0.21	1
+JoJo's Bizarre Adventure: Eyes of Heaven	0.0	0.0	1.84	0.0	0.21	1
+Dungeons 3	0.49	0.0	0.0	0.33	0.21	1
+Tour de France 2014	0.0	0.31	0.0	0.33	0.21	1
+Danganronpa Another Episode: Ultra Despair Girls	0.49	0.0	0.46	0.33	0.21	1
+Aegis of Earth: Protonovus Assault	0.49	0.1	0.0	0.33	0.21	1
+Just Sing	0.49	0.0	0.0	0.33	0.21	1
+Wonder Boy: The Dragon's Trap (Remake)	0.49	0.0	0.0	0.33	0.21	1
+Lumo	0.49	0.0	0.0	0.33	0.21	1
+ABZU	0.49	0.0	0.0	0.33	0.21	1
+Shadow Tactics: Blades of the Shogun	0.32	0.1	0.0	0.33	0.21	1
+Darkest Dungeon	0.32	0.0	0.46	0.33	0.21	1
+R.B.I. Baseball 2017	0.49	0.0	0.0	0.33	0.21	1
+Punch Line	0.49	0.0	0.0	0.33	0.21	1
+VR Karts	0.49	0.0	0.0	0.33	0.21	1
+Resident Evil: Umbrella Corps	0.0	0.0	1.84	0.0	0.21	1
+Marvel Pinball: Epic Collection Volume 1	0.49	0.0	0.0	0.33	0.21	1
+God Eater Off Shot: Lindow-hen Twin Pack & Animation Vol. 2	0.0	0.0	1.84	0.0	0.21	1
+Infamous: First Light	0.0	0.31	0.0	0.0	0.15	1
+Raiden V	0.32	0.0	0.0	0.33	0.15	1
+The Peanuts Movie: Snoopy's Grand Adventure	0.0	0.31	0.0	0.0	0.15	1
+The Dwarves	0.49	0.0	0.0	0.33	0.15	1
+Dynasty Warriors: Eiketsuden	0.0	0.0	1.38	0.0	0.15	1
+Winning Post 8 2016	0.0	0.0	1.38	0.0	0.15	1
+Dragon's Dogma Online: Season 2	0.0	0.0	1.38	0.0	0.15	1
+Coven and Labyrinth of Refrain	0.16	0.0	0.46	0.0	0.15	1
+Super Dungeon Bros	0.32	0.0	0.0	0.33	0.15	1
+Blade Arcus from Shining EX	0.0	0.0	1.38	0.0	0.15	1
+Troll and I	0.32	0.0	0.0	0.33	0.15	1
+The Pillars of the Earth	0.32	0.0	0.0	0.33	0.15	1
+The Lost Child	0.16	0.0	0.46	0.0	0.15	1
+Romance of the Three Kingdoms 13 with Power-Up Kit	0.0	0.0	1.38	0.0	0.15	1
+Koihime Enbu	0.0	0.0	1.38	0.0	0.15	1
+Road Rage	0.32	0.0	0.0	0.33	0.15	1
+Winning Post 8 2017	0.0	0.0	1.38	0.0	0.15	1
+Dino Dini's Kick Off Revival	0.0	0.21	0.0	0.0	0.15	1
+God Eater Off Shot:Shiou-hen Twin Pack & Animation Vol.5	0.0	0.0	1.38	0.0	0.15	1
+Tumblestone	0.32	0.0	0.0	0.33	0.15	1
+Blackguards 2	0.32	0.0	0.0	0.33	0.15	1
+Baja: Edge of Control HD	0.32	0.0	0.0	0.33	0.15	1
+Crows: Burning Edge	0.0	0.0	1.38	0.0	0.15	1
+Geometry Wars 3: Dimensions Evolved	0.32	0.0	0.0	0.33	0.15	1
+We Sing (2016)	0.32	0.0	0.0	0.33	0.15	1
+Shin Hayarigami 2	0.0	0.0	1.38	0.0	0.15	1
+The Town of Light	0.32	0.0	0.0	0.33	0.15	1
+OlliOlli: Epic Combo Edition	0.32	0.0	0.0	0.33	0.15	1
+Naruto Shippuden Ultimate Ninja Storm 4: Road to Boruto	0.0	0.0	1.38	0.0	0.15	1
+This War of Mine	0.0	0.21	0.0	0.0	0.15	1
+Ao no Kanata no Four Rhythm	0.0	0.0	1.38	0.0	0.15	1
+Zero Escape: Zero Time Dilemma	0.32	0.0	0.0	0.0	0.15	1
+AereA	0.32	0.0	0.0	0.0	0.15	1
+Root Letter	0.0	0.0	1.38	0.0	0.15	1
+ClaDun Sengoku	0.32	0.0	0.0	0.0	0.15	1
+The Girl and the Robot	0.32	0.0	0.0	0.0	0.15	1
+Omega Quintet	0.0	0.0	0.92	0.0	0.15	1
+Touhou Kobuto V: Burst Battle	0.32	0.0	0.0	0.0	0.15	1
+God Eater Off Shot: Soma Shikkuzaru-hen Twin Pack & Animation Vol.4	0.0	0.0	0.92	0.0	0.1	1
+Rugby League Live 3	0.0	0.21	0.0	0.0	0.1	1
+Omega Labyrinth Z	0.0	0.0	0.92	0.0	0.1	1
+Lost Sphear	0.0	0.0	0.92	0.0	0.1	1
+Superbeat: Xonic	0.32	0.0	0.0	0.0	0.1	1
+Republique	0.0	0.1	0.46	0.0	0.1	1
+Super Stardust Ultra VR	0.0	0.21	0.0	0.0	0.1	1
+Redout	0.32	0.0	0.0	0.0	0.1	1
+Resident Evil: Value Pack	0.0	0.0	0.92	0.0	0.1	1
+God Eater Off Shot: Tachibana Sakuya-hen Twin Pack & Animation Vol.7	0.0	0.0	0.92	0.0	0.1	1
+PaRappa the Rapper Remastered	0.0	0.0	0.92	0.0	0.1	1
+Earth's Dawn	0.32	0.0	0.0	0.0	0.1	1
+Big Buck Hunter Arcade	0.32	0.0	0.0	0.0	0.1	1
+Dungeons 2	0.32	0.0	0.0	0.0	0.1	1
+Tricky Towers	0.32	0.0	0.0	0.0	0.1	1
+No Heroes Allowed! VR	0.0	0.0	0.92	0.0	0.1	1
+ArmaGallant: Decks of Destiny	0.32	0.0	0.0	0.0	0.1	1
+Carmageddon: Max Damage	0.32	0.0	0.0	0.0	0.1	1
+Armello	0.32	0.0	0.0	0.0	0.1	1
+Shaq-Fu: A Legend Reborn	0.32	0.0	0.0	0.0	0.1	1
+Patapon Remastered	0.0	0.0	0.92	0.0	0.1	1
+Monster Hunter Frontier Z: Beginner's Package	0.0	0.0	0.92	0.0	0.1	1
+Professional Farmer 2016	0.0	0.21	0.0	0.0	0.1	1
+Natsuiro High School: Seishun Hakusho	0.0	0.0	0.92	0.0	0.1	1
+The Inner World: The Last Wind Monk	0.32	0.0	0.0	0.0	0.1	1
+SteamWorld Collection	0.32	0.0	0.0	0.0	0.1	1
+Konoyo no Hate de Koi o Utau Shoujo: Yu-No	0.0	0.0	0.92	0.0	0.1	1
+God Eater Off Shot: Fujiki Kota-hen Twin Pack & Animation Vol.6	0.0	0.0	0.92	0.0	0.1	1
+Genkai Tokki: Castle Panzers	0.0	0.0	0.92	0.0	0.1	1
+Skullgirls: 2nd Encore	0.0	0.0	0.92	0.0	0.1	1
+This Is The Police	0.16	0.0	0.0	0.0	0.1	1
+Rabbids Invasion: The Interactive TV Show	0.0	0.1	0.0	0.0	0.1	1
+FlatOut 4: Total Insanity	0.16	0.0	0.0	0.0	0.1	1
+Chaos;Child	0.0	0.0	0.92	0.0	0.1	1
+Touhou Shinhiroku: Urban Legend in Limbo	0.0	0.0	0.92	0.0	0.1	1
+Rogue Trooper: Redux	0.16	0.0	0.0	0.0	0.1	1
+Space Hulk: Deathwing	0.0	0.1	0.0	0.0	0.1	1
+Pharaonic	0.16	0.0	0.0	0.0	0.1	1
+White Day	0.0	0.1	0.46	0.0	0.1	1
+Torment: Tides of Numenera	0.16	0.0	0.0	0.0	0.05	1
+Let It Die	0.0	0.1	0.46	0.0	0.05	1
+Summer Lesson: Miyamoto Hikari Collection	0.0	0.0	0.46	0.0	0.05	1
+Raven's Cry	0.0	0.1	0.0	0.0	0.05	1
+New Game! The Challenge Stage!	0.0	0.0	0.46	0.0	0.05	1
+Hakoniwa Company Works	0.0	0.0	0.46	0.0	0.05	1
+DJ Max Respect	0.0	0.0	0.46	0.0	0.05	1
+Battle Worlds: Kronos	0.16	0.0	0.0	0.0	0.05	1
+Dragon's Dogma Online: Season 3	0.0	0.0	0.46	0.0	0.05	1
+Occultic;Nine	0.0	0.0	0.46	0.0	0.05	1
+Kono Subarashii Sekai ni Shukufuku o! Kono Yokubukai Game ni Shinpan o!	0.0	0.0	0.46	0.0	0.05	1
+Battle Garegga Rev.2016	0.0	0.0	0.46	0.0	0.05	1
+Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set	0.0	0.0	0.46	0.0	0.05	1
+Farming 2017 - The Simulation	0.0	0.1	0.0	0.0	0.05	1
+Re:Zero - Kara Hajimeru Isekai Seikatsu - Death or Kiss	0.0	0.0	0.46	0.0	0.05	1
+Zombie Vikings	0.0	0.1	0.0	0.0	0.05	1
+ATV Renegades	0.16	0.0	0.0	0.0	0.05	1
+Ziggurat	0.0	0.1	0.0	0.0	0.05	1
+Chaos;Child: Love Chu Chu!!	0.0	0.0	0.46	0.0	0.05	1
+Moto Racer 4	0.16	0.0	0.0	0.0	0.05	1
+LocoRoco Remastered	0.0	0.0	0.46	0.0	0.05	1
+Lock's Quest	0.16	0.0	0.0	0.0	0.05	1
+Gal Gun: Double Peace	0.0	0.0	0.46	0.0	0.05	1
+Woodcutter Simulator 2016	0.0	0.1	0.0	0.0	0.05	1
+Akiba's Trip 2+A	0.0	0.0	0.46	0.0	0.05	1
+Date-A-Live Twin Edition: Rio Reincarnation	0.0	0.0	0.46	0.0	0.05	1
+Valhalla Hills	0.16	0.0	0.0	0.0	0.05	1
+Deception IV: Blood Ties	0.0	0.0	0.46	0.0	0.05	1
+One Piece: Unlimited World Red	0.0	0.0	0.46	0.0	0.05	1
+Hyper Light Drifter	0.0	0.0	0.46	0.0	0.05	1
+Teslagrad	0.0	0.1	0.0	0.0	0.05	1
+Darius Burst: Chronicle Saviours	0.0	0.0	0.46	0.0	0.05	1
+The Escapists: The Walking Dead	0.0	0.0	0.0	0.0	0.05	1
+Super Meat Boy	0.0	0.0	0.0	0.0	0.05	1
+Blood Bowl 2	0.0	0.0	0.0	0.0	0.0	1
+The Witness	0.0	0.0	0.0	0.0	0.0	1
+Quantic Dream Collection	0.0	0.0	0.0	0.0	0.0	1
+Iwaihime: Matsuri	0.0	0.0	0.0	0.0	0.0	1
+RepKiss	0.0	0.0	0.0	0.0	0.0	1
+War Thunder	0.0	0.0	0.0	0.0	0.0	1
+Tsuihou Senkyo	0.0	0.0	0.0	0.0	0.0	1
+Hustle Kings VR	0.0	0.0	0.0	0.0	0.0	1
+Toki Tori 2+	0.0	0.0	0.0	0.0	0.0	1
+Deception IV: The Nightmare Princess	0.0	0.0	0.0	0.0	0.0	1
+Kingdom Hearts HD I.5 + II.5 ReMIX	0.0	0.0	0.0	0.0	0.0	1
+Fushigi no Chronicle: Furikaerimasen Katsu Madewa	0.0	0.0	0.0	0.0	0.0	1
+A Boy and His Blob	0.0	0.0	0.0	0.0	0.0	1
+Agatha Christie: The ABC Murders	0.0	0.0	0.0	0.0	0.0	1
+Ancients of Ooga - The Forgotten Chapters	0.0	0.0	0.0	0.0	0.0	1
+Another World	0.0	0.0	0.0	0.0	0.0	1
+Ape Escape 2	0.0	0.0	0.0	0.0	0.0	1
+Bee Tap Extreme	0.0	0.0	0.0	0.0	0.0	1
+Blacklight: Retribution	0.0	0.0	0.0	0.0	0.0	1
+Bladestorm: The Hundred Years' War	0.0	0.0	0.0	0.0	0.0	1
+Brothers in Arms: Furious 4	0.0	0.0	0.0	0.0	0.0	1
+Cel Damage	0.0	0.0	0.0	0.0	0.0	1
+Woolfe: The Red Hood Diaries	0.0	0.0	0.0	0.0	0.0	1
+Dark Cloud 2	0.0	0.0	0.0	0.0	0.0	1
+DC Universe Online	0.0	0.0	0.0	0.0	0.0	1
+Fez	0.0	0.0	0.0	0.0	0.0	1
+Guardian Knight	0.0	0.0	0.0	0.0	0.0	1
+Heavy Rain	0.0	0.0	0.0	0.0	0.0	1
+Industry Giant II	0.0	0.0	0.0	0.0	0.0	1
+King's Quest I: Quest for the Crown (VGA Version)	0.0	0.0	0.0	0.0	0.0	1
+Kingdom Under Fire II	0.0	0.0	0.0	0.0	0.0	1
+Ladybug Puzzle	0.0	0.0	0.0	0.0	0.0	1
+Maniac Mansion: Day of the Tentacle	0.0	0.0	0.0	0.0	0.0	1
+Metal Slug 3	0.0	0.0	0.0	0.0	0.0	1
+Mount & Blade: Warband	0.0	0.0	0.0	0.0	0.0	1
+Pier Solar and the Great Architects	0.0	0.0	0.0	0.0	0.0	1
+Piggy Adventure	0.0	0.0	0.0	0.0	0.0	1
+PlanetSide 2	0.0	0.0	0.0	0.0	0.0	1
+Psychonauts	0.0	0.0	0.0	0.0	0.0	1
+Resident Evil 5	0.0	0.0	0.0	0.0	0.0	1
+Sound Shapes	0.0	0.0	0.0	0.0	0.0	1
+Star Ocean: Till The End of Time	0.0	0.0	0.0	0.0	0.0	1
+Super Motherload	0.0	0.0	0.0	0.0	0.0	1
+The Amazing Spider-Man 2	0.0	0.0	0.0	0.0	0.0	1
+The King of Fighters 2000	0.0	0.0	0.0	0.0	0.0	1
+Rack N Ruin	0.0	0.0	0.0	0.0	0.0	1
+Ether One	0.0	0.0	0.0	0.0	0.0	1
+Uncharted 2: Among Thieves	0.0	0.0	0.0	0.0	0.0	1
+Uncharted 3: Drake's Deception	0.0	0.0	0.0	0.0	0.0	1
+Uncharted Waters Online: Gran Atlas	0.0	0.0	0.0	0.0	0.0	1
+Uncharted: Drake's Fortune	0.0	0.0	0.0	0.0	0.0	1
+Werewolves vs Vampires	0.0	0.0	0.0	0.0	0.0	1
+Awesomenauts	0.0	0.0	0.0	0.0	0.0	1
+Dust: An Elysian Tail	0.0	0.0	0.0	0.0	0.0	1
+Skullgirls	0.0	0.0	0.0	0.0	0.0	1
+flower	0.0	0.0	0.0	0.0	0.0	1
+Gran Turismo HD Concept	0.0	0.0	0.0	0.0	0.0	1
+PixelJunk Shooter	0.0	0.0	0.0	0.0	0.0	1
+PixelJunk Shooter 2	0.0	0.0	0.0	0.0	0.0	1
+Rainbow Moon	0.0	0.0	0.0	0.0	0.0	1
+Dear Esther	0.0	0.0	0.0	0.0	0.0	1
+Oddworld: Abe's Oddysee New N' Tasty!	0.0	0.0	0.0	0.0	0.0	1
+Broken Age	0.0	0.0	0.0	0.0	0.0	1
+Apotheon	0.0	0.0	0.0	0.0	0.0	1
+Two Brothers	0.0	0.0	0.0	0.0	0.0	1
+Slender: The Arrival	0.0	0.0	0.0	0.0	0.0	1
+deep down (Working Title)	0.0	0.0	0.0	0.0	0.0	1
+Hotline Miami	0.0	0.0	0.0	0.0	0.0	1
+The Unfinished Swan	0.0	0.0	0.0	0.0	0.0	1
+Human Element	0.0	0.0	0.0	0.0	0.0	1
+Whore of the Orient	0.0	0.0	0.0	0.0	0.0	1
+Cyberpunk 2077	0.0	0.0	0.0	0.0	0.0	1
+Final Fantasy (PS4)	0.0	0.0	0.0	0.0	0.0	1
+Transistor	0.0	0.0	0.0	0.0	0.0	1
+The Swapper	0.0	0.0	0.0	0.0	0.0	1
+Outlast	0.0	0.0	0.0	0.0	0.0	1
+Contrast	0.0	0.0	0.0	0.0	0.0	1
+Guacamelee!	0.0	0.0	0.0	0.0	0.0	1
+Carmageddon: Reincarnation	0.0	0.0	0.0	0.0	0.0	1
+Rocketbirds 2: Evolution	0.0	0.0	0.0	0.0	0.0	1
+Primal Carnage: Genesis	0.0	0.0	0.0	0.0	0.0	1
+Doki-Doki Universe	0.0	0.0	0.0	0.0	0.0	1
+Hohokum	0.0	0.0	0.0	0.0	0.0	1
+CounterSpy	0.0	0.0	0.0	0.0	0.0	1
+War Thunder	0.0	0.0	0.0	0.0	0.0	1
+Warframe	0.0	0.0	0.0	0.0	0.0	1
+The Banner Saga	0.0	0.0	0.0	0.0	0.0	1
+BADLAND	0.0	0.0	0.0	0.0	0.0	1
+Sparkle 2	0.0	0.0	0.0	0.0	0.0	1
+Daylight	0.0	0.0	0.0	0.0	0.0	1
+Peggle 2	0.0	0.0	0.0	0.0	0.0	1
+Kingdom Hearts III	0.0	0.0	0.0	0.0	0.0	1
+Mercenary Kings	0.0	0.0	0.0	0.0	0.0	1
+Secret Ponchos	0.0	0.0	0.0	0.0	0.0	1
+Octodad: Dadliest Catch	0.0	0.0	0.0	0.0	0.0	1
+Galak-Z	0.0	0.0	0.0	0.0	0.0	1
+Ray's the Dead	0.0	0.0	0.0	0.0	0.0	1
+Yaiba: Ninja Gaiden Z	0.0	0.0	0.0	0.0	0.0	1
+KickBeat	0.0	0.0	0.0	0.0	0.0	1
+Tiny Brains	0.0	0.0	0.0	0.0	0.0	1
+Stick It to the Man	0.0	0.0	0.0	0.0	0.0	1
+Aban Hawkins & the 1001 Spikes	0.0	0.0	0.0	0.0	0.0	1
+Home - a Unique Horror Adventure	0.0	0.0	0.0	0.0	0.0	1
+Soul Saga	0.0	0.0	0.0	0.0	0.0	1
+Pinball Arcade	0.0	0.0	0.0	0.0	0.0	1
+Toukiden: The Age of Demons	0.0	0.0	0.0	0.0	0.0	1
+Reus	0.0	0.0	0.0	0.0	0.0	1
+Strider (2014)	0.0	0.0	0.0	0.0	0.0	1
+Rogue Legacy	0.0	0.0	0.0	0.0	0.0	1
+EverQuest Next	0.0	0.0	0.0	0.0	0.0	1
+Project Phoenix	0.0	0.0	0.0	0.0	0.0	1
+Defense Grid 2	0.0	0.0	0.0	0.0	0.0	1
+Drifter: A Space Trading Game	0.0	0.0	0.0	0.0	0.0	1
+Volume	0.0	0.0	0.0	0.0	0.0	1
+Hellraid	0.0	0.0	0.0	0.0	0.0	1
+SteamWorld Dig: A Fistful of Dirt	0.0	0.0	0.0	0.0	0.0	1
+Armikrog	0.0	0.0	0.0	0.0	0.0	1
+Chasm	0.0	0.0	0.0	0.0	0.0	1
+XING: The Land Beyond	0.0	0.0	0.0	0.0	0.0	1
+There Came an Echo	0.0	0.0	0.0	0.0	0.0	1
+Strike Suit Zero	0.0	0.0	0.0	0.0	0.0	1
+Basement Crawl	0.0	0.0	0.0	0.0	0.0	1
+Velocity 2X	0.0	0.0	0.0	0.0	0.0	1
+Helldivers	0.0	0.0	0.0	0.0	0.0	1
+RESOGUN	0.0	0.0	0.0	0.0	0.0	1
+Everybody's Gone to the Rapture	0.0	0.0	0.0	0.0	0.0	1
+Murasaki Baby	0.0	0.0	0.0	0.0	0.0	1
+Hotline Miami 2: Wrong Number	0.0	0.0	0.0	0.0	0.0	1
+Shadow of the Beast (PS4)	0.0	0.0	0.0	0.0	0.0	1
+WonderFlick	0.0	0.0	0.0	0.0	0.0	1
+Monochroma	0.0	0.0	0.0	0.0	0.0	1
+H-Hour: World's Elite	0.0	0.0	0.0	0.0	0.0	1
+SPORTSFRIENDS	0.0	0.0	0.0	0.0	0.0	1
+Unmechanical	0.0	0.0	0.0	0.0	0.0	1
+Divekick	0.0	0.0	0.0	0.0	0.0	1
+Lily Bergamo	0.0	0.0	0.0	0.0	0.0	1
+Valiant Hearts: The Great War	0.0	0.0	0.0	0.0	0.0	1
+OlliOlli	0.0	0.0	0.0	0.0	0.0	1
+Switch Galaxy Ultra	0.0	0.0	0.0	0.0	0.0	1
+Anomaly 2	0.0	0.0	0.0	0.0	0.0	1
+Legend of Raven	0.0	0.0	0.0	0.0	0.0	1
+Stealth Inc.	0.0	0.0	0.0	0.0	0.0	1
+Night in the Woods	0.0	0.0	0.0	0.0	0.0	1
+Tales from the Borderlands	0.0	0.0	0.0	0.0	0.0	1
+Kodoku	0.0	0.0	0.0	0.0	0.0	1
+Get Even	0.0	0.0	0.0	0.0	0.0	1
+Ready to Run	0.0	0.0	0.0	0.0	0.0	1
+Worms Battlegrounds	0.0	0.0	0.0	0.0	0.0	1
+Assassin's Creed Freedom Cry	0.0	0.0	0.0	0.0	0.0	1
+Dungeon Defenders II	0.0	0.0	0.0	0.0	0.0	1
+Razor Global Domination Pro Tour�	0.0	0.0	0.0	0.0	0.0	1
+Pavilion	0.0	0.0	0.0	0.0	0.0	1
+forma.8	0.0	0.0	0.0	0.0	0.0	1
+TowerFall	0.0	0.0	0.0	0.0	0.0	1
+Gone Home�	0.0	0.0	0.0	0.0	0.0	1
+Costume Quest 2	0.0	0.0	0.0	0.0	0.0	1
+Pure Chess	0.0	0.0	0.0	0.0	0.0	1
+Aztez	0.0	0.0	0.0	0.0	0.0	1
+Not a Hero	0.0	0.0	0.0	0.0	0.0	1
+SOMA (2015)	0.0	0.0	0.0	0.0	0.0	1
+Cult County	0.0	0.0	0.0	0.0	0.0	1
+Adr1ft	0.0	0.0	0.0	0.0	0.0	1
+R.B.I. Baseball 14	0.0	0.0	0.0	0.0	0.0	1
+Citizens of Earth	0.0	0.0	0.0	0.0	0.0	1
+H1Z1	0.0	0.0	0.0	0.0	0.0	1
+Blue Estate�	0.0	0.0	0.0	0.0	0.0	1
+Road Not Taken	0.0	0.0	0.0	0.0	0.0	1
+Source	0.0	0.0	0.0	0.0	0.0	1
+Backgammon Blitz	0.0	0.0	0.0	0.0	0.0	1
+Hitman GO	0.0	0.0	0.0	0.0	0.0	1
+MechRunner	0.0	0.0	0.0	0.0	0.0	1
+The Chainsaw Incident	0.0	0.0	0.0	0.0	0.0	1
+Chariot	0.0	0.0	0.0	0.0	0.0	1
+Nidhogg	0.0	0.0	0.0	0.0	0.0	1
+Ironclad Tactics	0.0	0.0	0.0	0.0	0.0	1
+MouseCraft	0.0	0.0	0.0	0.0	0.0	1
+Starwhal: Just the Tip	0.0	0.0	0.0	0.0	0.0	1
+Crimsonland	0.0	0.0	0.0	0.0	0.0	1
+VizionEck	0.0	0.0	0.0	0.0	0.0	1
+Pure Pool�	0.0	0.0	0.0	0.0	0.0	1
+Without Memory	0.0	0.0	0.0	0.0	0.0	1
+Firewatch	0.0	0.0	0.0	0.0	0.0	1
+Never Alone	0.0	0.0	0.0	0.0	0.0	1
+The Last Tinker: City of Colors	0.0	0.0	0.0	0.0	0.0	1
+Bombshell	0.0	0.0	0.0	0.0	0.0	1
+Red Goddess	0.0	0.0	0.0	0.0	0.0	1
+The Forest	0.0	0.0	0.0	0.0	0.0	1
+Fenix Rage	0.0	0.0	0.0	0.0	0.0	1
+EarthNight	0.0	0.0	0.0	0.0	0.0	1
+One Way Trip	0.0	0.0	0.0	0.0	0.0	1
+Shiness: The Lightning Kingdom	0.0	0.0	0.0	0.0	0.0	1
+Aaru's Awakening	0.0	0.0	0.0	0.0	0.0	1
+Falling Skies: The Game�	0.0	0.0	0.0	0.0	0.0	1
+Onigiri	0.0	0.0	0.0	0.0	0.0	1
+Loadout	0.0	0.0	0.0	0.0	0.0	1
+Entwined	0.0	0.0	0.0	0.0	0.0	1
+EA Sports PGA Tour	0.0	0.0	0.0	0.0	0.0	1
+Dead Island 2	0.0	0.0	0.0	0.0	0.0	1
+Magicka 2	0.0	0.0	0.0	0.0	0.0	1
+Broforce	0.0	0.0	0.0	0.0	0.0	1
+Inside	0.0	0.0	0.0	0.0	0.0	1
+Blast 'Em Bunnies	0.0	0.0	0.0	0.0	0.0	1
+Woah Dave!	0.0	0.0	0.0	0.0	0.0	1
+The Assembly	0.0	0.0	0.0	0.0	0.0	1
+Tetris Ultimate�	0.0	0.0	0.0	0.0	0.0	1
+Afro Samurai 2	0.0	0.0	0.0	0.0	0.0	1
+The Legend of Korra (2014)	0.0	0.0	0.0	0.0	0.0	1
+The Vanishing of Ethan Carter�	0.0	0.0	0.0	0.0	0.0	1
+Godzilla (2014)	0.0	0.0	0.0	0.0	0.0	1
+Gran Turismo 7	0.0	0.0	0.0	0.0	0.0	1
+Rollers of the Realm	0.0	0.0	0.0	0.0	0.0	1
+Q*bert: Rebooted	0.0	0.0	0.0	0.0	0.0	1
+AirMech Arena	0.0	0.0	0.0	0.0	0.0	1
+The Walking Dead: Season Three	0.0	0.0	0.0	0.0	0.0	1
+Toren	0.0	0.0	0.0	0.0	0.0	1
+Pneuma: Breath of Life	0.0	0.0	0.0	0.0	0.0	1
+#killallzombies	0.0	0.0	0.0	0.0	0.0	1
+The Escapists	0.0	0.0	0.0	0.0	0.0	1
+The Tomorrow Children	0.0	0.0	0.0	0.0	0.0	1
+Hollowpoint	0.0	0.0	0.0	0.0	0.0	1
+In Space We Brawl	0.0	0.0	0.0	0.0	0.0	1
+Wild	0.0	0.0	0.0	0.0	0.0	1
+Alienation	0.0	0.0	0.0	0.0	0.0	1
+Ubusuna	0.0	0.0	0.0	0.0	0.0	1
+PIX the CAT	0.0	0.0	0.0	0.0	0.0	1
+Game 4	0.0	0.0	0.0	0.0	0.0	1
+Titan Souls	0.0	0.0	0.0	0.0	0.0	1
+OniKira: Demon Killer	0.0	0.0	0.0	0.0	0.0	1
+Moon Hunters	0.0	0.0	0.0	0.0	0.0	1
+Salt and Sanctuary	0.0	0.0	0.0	0.0	0.0	1
+Alone With You	0.0	0.0	0.0	0.0	0.0	1
+Tadeo Jones y el manuscrito perdido	0.0	0.0	0.0	0.0	0.0	1
+Invokers Tournament	0.0	0.0	0.0	0.0	0.0	1
+OlliOlli 2: Welcome to Olliwood	0.0	0.0	0.0	0.0	0.0	1
+Pathologic	0.0	0.0	0.0	0.0	0.0	1
+Soma	0.0	0.0	0.0	0.0	0.0	1
+Rebel Galaxy	0.0	0.0	0.0	0.0	0.0	1
+I Am Bread	0.0	0.0	0.0	0.0	0.0	1
+Geometry Wars 3: Dimensions	0.0	0.0	0.0	0.0	0.0	1
+Primal Carnage: Extinction	0.0	0.0	0.0	0.0	0.0	1
+Assassin's Creed: Victory	0.0	0.0	0.0	0.0	0.0	1
+Silent Hills	0.0	0.0	0.0	0.0	0.0	1
+The Banner Saga 2	0.0	0.0	0.0	0.0	0.0	1
+Enter the Gungeon	0.0	0.0	0.0	0.0	0.0	1
+What Remains of Edith Finch	0.0	0.0	0.0	0.0	0.0	1
+Wattam	0.0	0.0	0.0	0.0	0.0	1
+Fat Princess Adventures	0.0	0.0	0.0	0.0	0.0	1
+Skytorn	0.0	0.0	0.0	0.0	0.0	1
+Kill Strain	0.0	0.0	0.0	0.0	0.0	1
+Drawn to Death	0.0	0.0	0.0	0.0	0.0	1
+Grow Home	0.0	0.0	0.0	0.0	0.0	1
+Apotheon	0.0	0.0	0.0	0.0	0.0	1
+Hunger	0.0	0.0	0.0	0.0	0.0	1
+Magic Duels: Origin	0.0	0.0	0.0	0.0	0.0	1
+Shiftlings	0.0	0.0	0.0	0.0	0.0	1
+Oceanhorn: Monster of Uncharted Seas	0.0	0.0	0.0	0.0	0.0	1
+Beyond Eyes	0.0	0.0	0.0	0.0	0.0	1
+Inside My Radio	0.0	0.0	0.0	0.0	0.0	1
+Tembo the Badass Elephant	0.0	0.0	0.0	0.0	0.0	1
+Assassin's Creed Chronicles: Russia	0.0	0.0	0.0	0.0	0.0	1
+Assassin's Creed Chronicles: India	0.0	0.0	0.0	0.0	0.0	1
+Overlord: Fellowship of Evil	0.0	0.0	0.0	0.0	0.0	1
+R.B.I. Baseball 15	0.0	0.0	0.0	0.0	0.0	1
+Krinkle Krusher	0.0	0.0	0.0	0.0	0.0	1
+Wander	0.0	0.0	0.0	0.0	0.0	1
+Trans-Galactic Tournament	0.0	0.0	0.0	0.0	0.0	1
+The Walking Dead: Michonne	0.0	0.0	0.0	0.0	0.0	1
+Unravel	0.0	0.0	0.0	0.0	0.0	1
+Tachyon Project	0.0	0.0	0.0	0.0	0.0	1
+Final Fantasy VII Remake	0.0	0.0	0.0	0.0	0.0	1
+Ikenie to Yuki no Setsuna	0.0	0.0	0.0	0.0	0.0	1
+Atelier Sophie	0.0	0.0	0.0	0.0	0.0	1
+Dengeki Bunko: Fighting Climax Ignition	0.0	0.0	0.0	0.0	0.0	1
+World Soccer Winning Eleven 2015	0.0	0.0	0.0	0.0	0.0	1
+Muse: Together Is the New Alone	0.0	0.0	0.0	0.0	0.0	1
+Cross Reverie	0.0	0.0	0.0	0.0	0.0	1
+Airship Q	0.0	0.0	0.0	0.0	0.0	1
+Killing Bites	0.0	0.0	0.0	0.0	0.0	1
+Hatsune Miku: Project Diva Future Tone	0.0	0.0	0.0	0.0	0.0	1
+Tiny Troopers Joint Ops	0.0	0.0	0.0	0.0	0.0	1
+The London Heist	0.0	0.0	0.0	0.0	0.0	1
+Risen 3 Enhanced Edition	0.0	0.0	0.0	0.0	0.0	1
+Air Conflicts: Pacific Carriers	0.0	0.0	0.0	0.0	0.0	1
+God Wars: Beyond Time	0.0	0.0	0.0	0.0	0.0	1
+Hasbro Family Fun Pack	0.0	0.0	0.0	0.0	0.0	1
+Professional Lumberjack 2016	0.0	0.0	0.0	0.0	0.0	1
+Alekhine's Gun	0.0	0.0	0.0	0.0	0.0	1
+Kung Fu Panda: Showdown of Legendary Legends	0.0	0.0	0.0	0.0	0.0	1
+Read Only Memories	0.0	0.0	0.0	0.0	0.0	1
+Shakedown Hawaii	0.0	0.0	0.0	0.0	0.0	1
+Fallen Legion	0.0	0.0	0.0	0.0	0.0	1
+Amplitude (2016)	0.0	0.0	0.0	0.0	0.0	1
+Bloodborne: Complete Edition	0.0	0.0	0.0	0.0	0.0	1
+Hardware: Rivals	0.0	0.0	0.0	0.0	0.0	1
+Jikkyou Powerful Pro Baseball Success Special	0.0	0.0	0.0	0.0	0.0	1
+Qurare: Magic Library	0.0	0.0	0.0	0.0	0.0	1
+World to the West	0.0	0.0	0.0	0.0	0.0	1
+The Binding of Isaac: Rebirth	0.0	0.0	0.0	0.0	0.0	1
+De-formers	0.0	0.0	0.0	0.0	0.0	1
+Rock of Ages II: Bigger and Boulder	0.0	0.0	0.0	0.0	0.0	1
+Fe	0.0	0.0	0.0	0.0	0.0	1
+Days Gone	0.0	0.0	0.0	0.0	0.0	1
+Berserk Musou	0.0	0.0	0.0	0.0	0.0	1
+Ginger: Beyond the Crystal	0.0	0.0	0.0	0.0	0.0	1
+The Last of Us: Part II	0.0	0.0	0.0	0.0	0.0	1
+Don Bradman Cricket 17	0.0	0.0	0.0	0.0	0.0	1
+Ace Combat 7: Skies Unknown	0.0	0.0	0.0	0.0	0.0	1
+Sakuna: Of Rice and Ruin	0.0	0.0	0.0	0.0	0.0	1
+Metro Exodus	0.0	0.0	0.0	0.0	0.0	1
+Anthem	0.0	0.0	0.0	0.0	0.0	1
+Moons Of Madness	0.0	0.0	0.0	0.0	0.0	1
+Iron Harvest	0.0	0.0	0.0	0.0	0.0	1
+Biomutant	0.0	0.0	0.0	0.0	0.0	1
+Biomutant	0.0	0.0	0.0	0.0	0.0	1
+de Blob	0.0	0.0	0.0	0.0	0.0	1
+Chaos on Deponia	0.0	0.0	0.0	0.0	0.0	1
+Code Vein	0.0	0.0	0.0	0.0	0.0	1
+Fallen Legion: Flames of Rebellion	0.0	0.0	0.0	0.0	0.0	1
+Radial G Racing Revolved	0.0	0.0	0.0	0.0	0.0	1
+The Mummy Demastered	0.0	0.0	0.0	0.0	0.0	1
+Project Nimbus: Code Mirai	0.0	0.0	0.0	0.0	0.0	1
+Battle Chef Brigade	0.0	0.0	0.0	0.0	0.0	1
